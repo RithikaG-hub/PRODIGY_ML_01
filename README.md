@@ -37,6 +37,12 @@ We used **Linear Regression** to train the model and predict house prices.
 
 👉 The model predicts the house price based on these values.
 
+## 📊 Output
+
+R2 Score: 0.75  
+Mean Squared Error: 1200000000  
+Predicted Price: 180000
+
 ---
 
 ## 📂 Dataset
