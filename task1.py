@@ -23,4 +23,4 @@ model.fit(X, y)
 # Predict price
 result = model.predict([[2000, 3, 2]])
 
-print("Predicted House Price:", result)
+print("Predicted House Price:",int(result[0]))
